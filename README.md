@@ -1,8 +1,6 @@
 blockscape
 ==========
 
-Event-driven extensible Minecraft Classic server.
+An extensible Minecraft Classic server using the Reactor pattern.
 
-This project was highly influenced by Bukkit and its plugin system.
-
-Development is still in progress.
+Still a work in progress.
