@@ -1,6 +1,8 @@
 blockscape
 ==========
 
-An extensible Minecraft Classic server using the Reactor pattern.
+An extensible Minecraft Classic server using the Reactor pattern and a generous amount of abstraction.
 
-Still a work in progress.
+The core of the server is highly abstract, and is intended to support more protocols in the future.
+
+Work in progress, check for updates!
